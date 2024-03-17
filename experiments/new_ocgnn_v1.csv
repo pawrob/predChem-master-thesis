@@ -1,0 +1,25 @@
+layers,output_dim,layers_type,is_bias,dataset_combination,weight_decay,network
+4,64,SAGE,True,"[0.135, 0.865]",0.0005,new_ocgnn
+5,64,SAGE,True,"[0.135, 0.865]",0.0005,new_ocgnn
+6,64,SAGE,True,"[0.135, 0.865]",0.0005,new_ocgnn
+4,64,SAGE,False,"[0.135, 0.865]",0.0005,new_ocgnn
+5,64,SAGE,False,"[0.135, 0.865]",0.0005,new_ocgnn
+6,64,SAGE,False,"[0.135, 0.865]",0.0005,new_ocgnn
+4,64,SAGE,True,"[0.135, 0.865]",0,new_ocgnn
+5,64,SAGE,True,"[0.135, 0.865]",0,new_ocgnn
+6,64,SAGE,True,"[0.135, 0.865]",0,new_ocgnn
+4,64,SAGE,False,"[0.135, 0.865]",0,new_ocgnn
+5,64,SAGE,False,"[0.135, 0.865]",0,new_ocgnn
+6,64,SAGE,False,"[0.135, 0.865]",0,new_ocgnn
+4,64,SAGE,True,"[0.065, 0.935]",0.0005,new_ocgnn
+5,64,SAGE,True,"[0.065, 0.935]",0.0005,new_ocgnn
+6,64,SAGE,True,"[0.065, 0.935]",0.0005,new_ocgnn
+4,64,SAGE,False,"[0.065, 0.935]",0.0005,new_ocgnn
+5,64,SAGE,False,"[0.065, 0.935]",0.0005,new_ocgnn
+6,64,SAGE,False,"[0.065, 0.935]",0.0005,new_ocgnn
+4,64,SAGE,True,"[0.065, 0.935]",0,new_ocgnn
+5,64,SAGE,True,"[0.065, 0.935]",0,new_ocgnn
+6,64,SAGE,True,"[0.065, 0.935]",0,new_ocgnn
+4,64,SAGE,False,"[0.065, 0.935]",0,new_ocgnn
+5,64,SAGE,False,"[0.065, 0.935]",0,new_ocgnn
+6,64,SAGE,False,"[0.065, 0.935]",0,new_ocgnn

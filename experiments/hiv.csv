@@ -1,0 +1,19 @@
+layers,output_dim,layers_type,is_bias,dataset_combination,weight_decay,network
+4,2,GAT,False,"[0.205, 0.795]",0,binary_classification
+5,2,GAT,False,"[0.205, 0.795]",0,binary_classification
+6,2,GAT,False,"[0.205, 0.795]",0,binary_classification
+4,2,SAGE,False,"[0.205, 0.795]",0,binary_classification
+5,2,SAGE,False,"[0.205, 0.795]",0,binary_classification
+6,2,SAGE,False,"[0.205, 0.795]",0,binary_classification
+4,2,GAT,False,"[0.328, 0.672]",0,binary_classification
+5,2,GAT,False,"[0.328, 0.672]",0,binary_classification
+6,2,GAT,False,"[0.328, 0.672]",0,binary_classification
+4,2,SAGE,False,"[0.328, 0.672]",0,binary_classification
+5,2,SAGE,False,"[0.328, 0.672]",0,binary_classification
+6,2,SAGE,False,"[0.328, 0.672]",0,binary_classification
+4,2,GAT,False,"[0.69, 0.31]",0,binary_classification
+5,2,GAT,False,"[0.69, 0.31]",0,binary_classification
+6,2,GAT,False,"[0.69, 0.31]",0,binary_classification
+4,2,SAGE,False,"[0.69, 0.31]",0,binary_classification
+5,2,SAGE,False,"[0.69, 0.31]",0,binary_classification
+6,2,SAGE,False,"[0.69, 0.31]",0,binary_classification
